@@ -1,0 +1,53 @@
+body{
+    background: black;
+    font-family: 'Fira Sans', sans-serif;
+}
+.custom-font-h3{
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+.logo{
+    max-width: 150px;
+    height: auto;
+}
+
+.about-section p{
+    font-size:16px;
+    line-height:28px ;
+}
+
+.service-box h4{
+    font-size: 24px;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: ;
+    
+}
+
+.contact-section
+{
+    background-image: url(../images/phone.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.address-box p{
+    font-size: 16px;
+    line-height: 22px;
+    
+}
+
+.contact-box .form-control{
+height: 50px;
+
+}
+
+.contact-box textarea.form-control{
+    height: 150px;
+}
+
+.form-group{
+    
+    padding-bottom: 5px;
+}
