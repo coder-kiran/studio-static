@@ -55,5 +55,5 @@ height: 50px;
 .header-image img{
     background:linear-gradient(0deg, rgba(15, 15, 15, 0.9), rgb(0, 0, 0,0)),url(../images/cover_04.jpg);
     background-size:cover;   
-    
+
 }
